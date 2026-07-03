@@ -26,6 +26,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | ------- |
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -47,4 +48,8 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
