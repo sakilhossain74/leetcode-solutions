@@ -14,6 +14,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
