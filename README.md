@@ -29,6 +29,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -85,6 +86,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
