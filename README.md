@@ -7,6 +7,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | ------- |
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -113,4 +115,8 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
