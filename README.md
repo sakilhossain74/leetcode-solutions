@@ -9,6 +9,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -35,6 +36,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -119,4 +121,8 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
