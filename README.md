@@ -16,6 +16,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -131,4 +132,8 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
