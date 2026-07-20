@@ -136,4 +136,9 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
