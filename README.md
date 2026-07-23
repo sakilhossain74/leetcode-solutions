@@ -45,6 +45,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0853-car-fleet) |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -78,6 +79,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0704-binary-search) |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
