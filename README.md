@@ -155,4 +155,12 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | ------- |
 | [0739-daily-temperatures](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
