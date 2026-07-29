@@ -110,6 +110,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
 ## Trie
@@ -160,12 +161,14 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0206-reverse-linked-list) |
