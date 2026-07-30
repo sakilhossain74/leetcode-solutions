@@ -10,6 +10,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -163,6 +164,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
