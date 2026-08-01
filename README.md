@@ -36,6 +36,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0001-two-sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0704-binary-search) |
