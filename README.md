@@ -40,6 +40,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0704-binary-search) |
@@ -143,6 +145,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
