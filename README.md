@@ -13,6 +13,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0138-copy-list-with-random-pointer](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -162,6 +165,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
 | ------- |
