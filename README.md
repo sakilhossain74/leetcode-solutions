@@ -45,6 +45,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0074-search-a-2d-matrix](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -96,6 +97,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3620-network-recovery-pathways](https://github.com/sakilhossain74/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
