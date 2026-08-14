@@ -14,6 +14,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0138-copy-list-with-random-pointer](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -24,6 +25,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0049-group-anagrams](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 | [0125-valid-palindrome](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -195,4 +198,5 @@ My LeetCode solutions in Python. Following the NeetCode 150 roadmap to improve D
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/sakilhossain74/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
